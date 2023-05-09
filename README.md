@@ -1,2 +1,3 @@
-# html_test
-test
+.settings/
+.git/
+.project
